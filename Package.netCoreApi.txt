@@ -1,0 +1,16 @@
+﻿    //Install the package - "WebPocHub.WebApi.Controllers"
+1- automapper.extensions.microsoft.dependencyinjection\12.0.1\, 
+2-bcrypt.net-next\4.0.3\, 
+3-microsoft.aspnetcore.authentication.jwtbearer\8.0.3\, 
+4- microsoft.entityframeworkcore.sqlserver\8.0.3\, 
+5- system.identitymodel.tokens.jwt\7.4.1\ , 
+6- swashbuckle.aspnetcore\6.4.0\
+   
+// Istall THe package - WebPocHu.dal
+
+ 1-microsoft.entityframeworkcore.sqlserver ,
+ 2- microsoft.entityframeworkcore.tools\8.0.3\
+
+
+  // Install the package - WebPocHub.Models
+microsoft.entityframeworkcore.sqlserver\8.0.3\
