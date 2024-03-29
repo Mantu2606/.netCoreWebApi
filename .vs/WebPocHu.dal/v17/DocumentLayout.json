@@ -1,0 +1,475 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{839D61D3-A868-412F-9DD7-3EA9B4387F97}|WebPocHu.dal\\WebPocHu.Dal.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochu.dal\\webpochubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839D61D3-A868-412F-9DD7-3EA9B4387F97}|WebPocHu.dal\\WebPocHu.Dal.csproj|solutionrelative:webpochu.dal\\webpochubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA1AAC9-94FB-4EA0-AA80-DDB6208879AD}|WebPocHub.Models\\WebPocHub.Models.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochub.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA1AAC9-94FB-4EA0-AA80-DDB6208879AD}|WebPocHub.Models\\WebPocHub.Models.csproj|solutionrelative:webpochub.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA1AAC9-94FB-4EA0-AA80-DDB6208879AD}|WebPocHub.Models\\WebPocHub.Models.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochub.models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA1AAC9-94FB-4EA0-AA80-DDB6208879AD}|WebPocHub.Models\\WebPocHub.Models.csproj|solutionrelative:webpochub.models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA1AAC9-94FB-4EA0-AA80-DDB6208879AD}|WebPocHub.Models\\WebPocHub.Models.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochub.models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA1AAC9-94FB-4EA0-AA80-DDB6208879AD}|WebPocHub.Models\\WebPocHub.Models.csproj|solutionrelative:webpochub.models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochub.webapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|solutionrelative:webpochub.webapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839D61D3-A868-412F-9DD7-3EA9B4387F97}|WebPocHu.dal\\WebPocHu.Dal.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochu.dal\\commonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839D61D3-A868-412F-9DD7-3EA9B4387F97}|WebPocHu.dal\\WebPocHu.Dal.csproj|solutionrelative:webpochu.dal\\commonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839D61D3-A868-412F-9DD7-3EA9B4387F97}|WebPocHu.dal\\WebPocHu.Dal.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochu.dal\\authenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839D61D3-A868-412F-9DD7-3EA9B4387F97}|WebPocHu.dal\\WebPocHu.Dal.csproj|solutionrelative:webpochu.dal\\authenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochub.webapi\\jwt\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|solutionrelative:webpochub.webapi\\jwt\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochub.webapi\\profiles\\employeesprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|solutionrelative:webpochub.webapi\\profiles\\employeesprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839D61D3-A868-412F-9DD7-3EA9B4387F97}|WebPocHu.dal\\WebPocHu.Dal.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochu.dal\\iauthenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839D61D3-A868-412F-9DD7-3EA9B4387F97}|WebPocHu.dal\\WebPocHu.Dal.csproj|solutionrelative:webpochu.dal\\iauthenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA1AAC9-94FB-4EA0-AA80-DDB6208879AD}|WebPocHub.Models\\WebPocHub.Models.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochub.models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA1AAC9-94FB-4EA0-AA80-DDB6208879AD}|WebPocHub.Models\\WebPocHub.Models.csproj|solutionrelative:webpochub.models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA1AAC9-94FB-4EA0-AA80-DDB6208879AD}|WebPocHub.Models\\WebPocHub.Models.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochub.models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA1AAC9-94FB-4EA0-AA80-DDB6208879AD}|WebPocHub.Models\\WebPocHub.Models.csproj|solutionrelative:webpochub.models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839D61D3-A868-412F-9DD7-3EA9B4387F97}|WebPocHu.dal\\WebPocHu.Dal.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochu.dal\\icommonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839D61D3-A868-412F-9DD7-3EA9B4387F97}|WebPocHu.dal\\WebPocHu.Dal.csproj|solutionrelative:webpochu.dal\\icommonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochub.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|solutionrelative:webpochub.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochub.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|solutionrelative:webpochub.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochub.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|solutionrelative:webpochub.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA1AAC9-94FB-4EA0-AA80-DDB6208879AD}|WebPocHub.Models\\WebPocHub.Models.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochub.models\\webpochub.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FAA1AAC9-94FB-4EA0-AA80-DDB6208879AD}|WebPocHub.Models\\WebPocHub.Models.csproj|solutionrelative:webpochub.models\\webpochub.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochub.webapi\\jwt\\itokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|solutionrelative:webpochub.webapi\\jwt\\itokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochub.webapi\\dto\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|solutionrelative:webpochub.webapi\\dto\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochub.webapi\\dto\\newemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|solutionrelative:webpochub.webapi\\dto\\newemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochub.webapi\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|solutionrelative:webpochub.webapi\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochub.webapi\\controllers\\wphauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|solutionrelative:webpochub.webapi\\controllers\\wphauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochub.webapi\\webpochub.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|solutionrelative:webpochub.webapi\\webpochub.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochub.webapi\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|solutionrelative:webpochub.webapi\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839D61D3-A868-412F-9DD7-3EA9B4387F97}|WebPocHu.dal\\WebPocHu.Dal.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochu.dal\\migrations\\webpochubdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839D61D3-A868-412F-9DD7-3EA9B4387F97}|WebPocHu.dal\\WebPocHu.Dal.csproj|solutionrelative:webpochu.dal\\migrations\\webpochubdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochub.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D2E804-D970-4103-95BD-244BBCC263EB}|WebPocHub.WebApi\\WebPocHub.WebApi.csproj|solutionrelative:webpochub.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839D61D3-A868-412F-9DD7-3EA9B4387F97}|WebPocHu.dal\\WebPocHu.Dal.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochu.dal\\webpochu.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{839D61D3-A868-412F-9DD7-3EA9B4387F97}|WebPocHu.dal\\WebPocHu.Dal.csproj|solutionrelative:webpochu.dal\\webpochu.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839D61D3-A868-412F-9DD7-3EA9B4387F97}|WebPocHu.dal\\WebPocHu.Dal.csproj|c:\\users\\mantu\\documents\\c# api 2022\\api\\udemylecture\\webpochu.dal\\webpochu.dal\\migrations\\20240319144808_createnewdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839D61D3-A868-412F-9DD7-3EA9B4387F97}|WebPocHu.dal\\WebPocHu.Dal.csproj|solutionrelative:webpochu.dal\\migrations\\20240319144808_createnewdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.Models\\User.cs",
+              "RelativeDocumentMoniker": "WebPocHub.Models\\User.cs",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.Models\\User.cs",
+              "RelativeToolTip": "WebPocHub.Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:43:42.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.Models\\Role.cs",
+              "RelativeDocumentMoniker": "WebPocHub.Models\\Role.cs",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.Models\\Role.cs",
+              "RelativeToolTip": "WebPocHub.Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:43:02.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebPocHubDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHu.dal\\WebPocHubDbContext.cs",
+              "RelativeDocumentMoniker": "WebPocHu.dal\\WebPocHubDbContext.cs",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHu.dal\\WebPocHubDbContext.cs*",
+              "RelativeToolTip": "WebPocHu.dal\\WebPocHubDbContext.cs*",
+              "ViewState": "AQIAABAAAAAAAAAAAAA0wCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:10:55.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHu.dal\\AuthenticationRepository.cs",
+              "RelativeDocumentMoniker": "WebPocHu.dal\\AuthenticationRepository.cs",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHu.dal\\AuthenticationRepository.cs",
+              "RelativeToolTip": "WebPocHu.dal\\AuthenticationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T11:54:05.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHu.dal\\CommonRepository.cs",
+              "RelativeDocumentMoniker": "WebPocHu.dal\\CommonRepository.cs",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHu.dal\\CommonRepository.cs",
+              "RelativeToolTip": "WebPocHu.dal\\CommonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T15:17:04.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebPocHub.Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.Models\\Employee.cs",
+              "RelativeToolTip": "WebPocHub.Models\\Employee.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvyIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:12:23.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeesProfile.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\Profiles\\EmployeesProfile.cs",
+              "RelativeDocumentMoniker": "WebPocHub.WebApi\\Profiles\\EmployeesProfile.cs",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\Profiles\\EmployeesProfile.cs",
+              "RelativeToolTip": "WebPocHub.WebApi\\Profiles\\EmployeesProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T01:31:17.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthenticationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHu.dal\\IAuthenticationRepository.cs",
+              "RelativeDocumentMoniker": "WebPocHu.dal\\IAuthenticationRepository.cs",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHu.dal\\IAuthenticationRepository.cs",
+              "RelativeToolTip": "WebPocHu.dal\\IAuthenticationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:35:20.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebPocHub.WebApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebPocHub.WebApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T17:45:15.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenManager.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\Jwt\\TokenManager.cs",
+              "RelativeDocumentMoniker": "WebPocHub.WebApi\\Jwt\\TokenManager.cs",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\Jwt\\TokenManager.cs",
+              "RelativeToolTip": "WebPocHub.WebApi\\Jwt\\TokenManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T07:01:05.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.Models\\Event.cs",
+              "RelativeDocumentMoniker": "WebPocHub.Models\\Event.cs",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.Models\\Event.cs",
+              "RelativeToolTip": "WebPocHub.Models\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:20:09.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.Models\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "WebPocHub.Models\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.Models\\AuthResponse.cs",
+              "RelativeToolTip": "WebPocHub.Models\\AuthResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T04:22:37.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICommonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHu.dal\\ICommonRepository.cs",
+              "RelativeDocumentMoniker": "WebPocHu.dal\\ICommonRepository.cs",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHu.dal\\ICommonRepository.cs",
+              "RelativeToolTip": "WebPocHu.dal\\ICommonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T15:10:09.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebPocHub.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\appsettings.json",
+              "RelativeToolTip": "WebPocHub.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T06:48:05.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebPocHub.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\Program.cs",
+              "RelativeToolTip": "WebPocHub.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T02:16:12.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebPocHub.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebPocHub.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T08:21:39.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WebPocHub.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.Models\\WebPocHub.Models.csproj",
+              "RelativeDocumentMoniker": "WebPocHub.Models\\WebPocHub.Models.csproj",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.Models\\WebPocHub.Models.csproj",
+              "RelativeToolTip": "WebPocHub.Models\\WebPocHub.Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-19T13:15:46.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITokenManager.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\Jwt\\ITokenManager.cs",
+              "RelativeDocumentMoniker": "WebPocHub.WebApi\\Jwt\\ITokenManager.cs",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\Jwt\\ITokenManager.cs",
+              "RelativeToolTip": "WebPocHub.WebApi\\Jwt\\ITokenManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:56:54.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\DTO\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "WebPocHub.WebApi\\DTO\\UpdateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\DTO\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "WebPocHub.WebApi\\DTO\\UpdateEmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T01:25:39.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NewEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\DTO\\NewEmployeeDto.cs",
+              "RelativeDocumentMoniker": "WebPocHub.WebApi\\DTO\\NewEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\DTO\\NewEmployeeDto.cs",
+              "RelativeToolTip": "WebPocHub.WebApi\\DTO\\NewEmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T01:25:04.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\DTO\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "WebPocHub.WebApi\\DTO\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\DTO\\EmployeeDto.cs",
+              "RelativeToolTip": "WebPocHub.WebApi\\DTO\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T01:24:11.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WphAuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\Controllers\\WphAuthenticationController.cs",
+              "RelativeDocumentMoniker": "WebPocHub.WebApi\\Controllers\\WphAuthenticationController.cs",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\Controllers\\WphAuthenticationController.cs",
+              "RelativeToolTip": "WebPocHub.WebApi\\Controllers\\WphAuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T04:29:35.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WebPocHub.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\WebPocHub.WebApi.csproj",
+              "RelativeDocumentMoniker": "WebPocHub.WebApi\\WebPocHub.WebApi.csproj",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\WebPocHub.WebApi.csproj",
+              "RelativeToolTip": "WebPocHub.WebApi\\WebPocHub.WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-19T16:21:07.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\libman.json",
+              "RelativeDocumentMoniker": "WebPocHub.WebApi\\libman.json",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\libman.json",
+              "RelativeToolTip": "WebPocHub.WebApi\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-26T18:00:30.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WebPocHubDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHu.dal\\Migrations\\WebPocHubDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebPocHu.dal\\Migrations\\WebPocHubDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHu.dal\\Migrations\\WebPocHubDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebPocHu.dal\\Migrations\\WebPocHubDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAIwPAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T14:49:27.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebPocHub.WebApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHub.WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebPocHub.WebApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwBMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:21:28.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WebPocHu.Dal.csproj",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHu.dal\\WebPocHu.Dal.csproj",
+              "RelativeDocumentMoniker": "WebPocHu.dal\\WebPocHu.Dal.csproj",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHu.dal\\WebPocHu.Dal.csproj",
+              "RelativeToolTip": "WebPocHu.dal\\WebPocHu.Dal.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-19T13:12:47.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240319144808_CreateNewDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHu.dal\\Migrations\\20240319144808_CreateNewDatabase.cs",
+              "RelativeDocumentMoniker": "WebPocHu.dal\\Migrations\\20240319144808_CreateNewDatabase.cs",
+              "ToolTip": "C:\\Users\\mantu\\Documents\\C# Api 2022\\api\\UdemyLecture\\WebPocHu.dal\\WebPocHu.dal\\Migrations\\20240319144808_CreateNewDatabase.cs",
+              "RelativeToolTip": "WebPocHu.dal\\Migrations\\20240319144808_CreateNewDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T14:48:08.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

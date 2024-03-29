@@ -1,0 +1,17 @@
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHu.dal\WebPocHu.dal\bin\Debug\net8.0\WebPocHu.Dal.deps.json
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHu.dal\WebPocHu.dal\bin\Debug\net8.0\WebPocHu.Dal.runtimeconfig.json
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHu.dal\WebPocHu.dal\bin\Debug\net8.0\WebPocHu.Dal.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHu.dal\WebPocHu.dal\bin\Debug\net8.0\WebPocHu.Dal.pdb
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHu.dal\WebPocHu.dal\bin\Debug\net8.0\WebPocHub.Models.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHu.dal\WebPocHu.dal\bin\Debug\net8.0\WebPocHub.Models.pdb
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHu.dal\WebPocHu.dal\obj\Debug\net8.0\WebPocHu.Dal.csproj.AssemblyReference.cache
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHu.dal\WebPocHu.dal\obj\Debug\net8.0\WebPocHu.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHu.dal\WebPocHu.dal\obj\Debug\net8.0\WebPocHu.Dal.AssemblyInfoInputs.cache
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHu.dal\WebPocHu.dal\obj\Debug\net8.0\WebPocHu.Dal.AssemblyInfo.cs
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHu.dal\WebPocHu.dal\obj\Debug\net8.0\WebPocHu.Dal.csproj.CoreCompileInputs.cache
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHu.dal\WebPocHu.dal\obj\Debug\net8.0\WebPocHu.Dal.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHu.dal\WebPocHu.dal\obj\Debug\net8.0\refint\WebPocHu.Dal.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHu.dal\WebPocHu.dal\obj\Debug\net8.0\WebPocHu.Dal.pdb
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHu.dal\WebPocHu.dal\obj\Debug\net8.0\WebPocHu.Dal.genruntimeconfig.cache
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHu.dal\WebPocHu.dal\obj\Debug\net8.0\ref\WebPocHu.Dal.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHu.dal\WebPocHu.dal\obj\Debug\net8.0\WebPocHu.638378B2.Up2Date
